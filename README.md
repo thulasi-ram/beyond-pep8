@@ -12,3 +12,6 @@ A set of guide lines for people trying out python to think in a pythonic way
 Python Timezone - Django Timezone
 Even if your website is available in only one time zone, it's still good practice to store data in UTC in your database. The main reason is Daylight Saving Time (DST). Many countries have a system of DST, where clocks are moved forward in spring and backward in autumn. If you're working in local time, you're likely to encounter errors twice a year, when the transitions happen. (The pytz documentation discusses these issues in greater detail.) This probably doesn't matter for your blog, but it's a problem if you over-bill or under-bill your customers by one hour, twice a year, every year. The solution to this problem is to use UTC in the code and use local time only when interacting with end users.
 
+
+When a concurrency problem hits you use random sleep. ref: raymond hettinger
+
