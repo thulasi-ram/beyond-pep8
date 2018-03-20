@@ -33,3 +33,7 @@ Object bigot and functional programming
 Descriptors
 Authentication vs authorization
 Where to use get and use [] on dictionary 
+
+https://docs.quantifiedcode.com/python-anti-patterns/correctness/assigning_a_lambda_to_a_variable.html
+
+
