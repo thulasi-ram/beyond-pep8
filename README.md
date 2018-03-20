@@ -15,3 +15,5 @@ Even if your website is available in only one time zone, it's still good practic
 
 When a concurrency problem hits you use random sleep. ref: raymond hettinger
 
+Use DDD. Limit db objects to Domain objects. Services should talk with domain objects. That way an api can create a domain object and use the service.
+
