@@ -19,3 +19,17 @@ Use DDD. Limit db objects to Domain objects. Services should talk with domain ob
 
 Backends should be a dependency injection to services optionally else it should be picked from config. That way code provides a flexible if two backends are to be used.
 
+
+Is not java
+Pycharm
+Less is not always but often better
+Lamdas are discouraged
+Exception handling base exceptions and logging - https://realpython.com/the-most-diabolical-python-antipattern/
+Never substitute the behavior of existing package
+Use kwargs
+Old code is not the Bible
+Composition over inheritance
+Object bigot and functional programming
+Descriptors
+Authentication vs authorization
+Where to use get and use [] on dictionary 
