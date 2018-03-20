@@ -17,3 +17,5 @@ When a concurrency problem hits you use random sleep. ref: raymond hettinger
 
 Use DDD. Limit db objects to Domain objects. Services should talk with domain objects. That way an api can create a domain object and use the service.
 
+Backends should be a dependency injection to services optionally else it should be picked from config. That way code provides a flexible if two backends are to be used.
+
