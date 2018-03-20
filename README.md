@@ -1,3 +1,13 @@
+
+The Seven Deadly Sins:
+1. Lust : overengineering
+2. Gluttony : failing to refactor
+3. Greed : competing across teams
+4. Sloth : not validating inputs
+5. Wrath : not commenting code
+6. Envy : not using version control
+7. Pride : not unit testing
+
 # beyond-pep8
 A set of guide lines for people trying out python to think in a pythonic way
 
