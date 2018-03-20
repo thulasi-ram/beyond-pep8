@@ -46,4 +46,6 @@ Where to use get and use [] on dictionary
 
 https://docs.quantifiedcode.com/python-anti-patterns/correctness/assigning_a_lambda_to_a_variable.html
 
+Avoid multiple returns - Multiple exit points for a function is hard to read. But use it if it enhances readablity
+
 
