@@ -33,7 +33,7 @@ Backends should be a dependency injection to services optionally else it should 
 Is not java
 Pycharm
 Less is not always but often better
-Lamdas are discouraged
+Lambdas are discouraged - https://www.artima.com/weblogs/viewpost.jsp?thread=147358
 Exception handling base exceptions and logging - https://realpython.com/the-most-diabolical-python-antipattern/
 Never substitute the behavior of existing package
 Use kwargs
