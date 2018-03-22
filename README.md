@@ -48,4 +48,8 @@ https://docs.quantifiedcode.com/python-anti-patterns/correctness/assigning_a_lam
 
 Avoid multiple returns - Multiple exit points for a function is hard to read. But use it if it enhances readablity
 
+Always have returns within try.
+Example:
+Prefer: try: do xx return except: do yy return than try: do xx except: do yy return.
+
 
