@@ -24,11 +24,11 @@ Grok - Corresponds to the understanding intutively aspect. You need to understan
 
 Contents
 --------
-- `Gist of Clean Code - by Robert C Martin (Uncle bob) </>`_
-- `Seven Deadly sins </>`_
-- `Python </>`_
-- `Domain Driven Design </>`_
-- `Notes on Concurrency </>`_
+- `Gist of Clean Code - by Robert C Martin (Uncle bob) </gist_of_clean_code.rst/>`_
+- `Seven Deadly sins </seven_deadly_sins.rst>`_
+- `Python </python>`_
+- `Domain Driven Design </domain_driven_design.rst>`_
+- `Notes on Concurrency </concurrency_notes.rst>`_
 
 
 
