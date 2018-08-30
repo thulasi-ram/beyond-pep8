@@ -11,7 +11,7 @@ Here I do my best to jot down stuff in a way that is easy to develop that skill 
 Structure of this guide
 -----------------------
 
-I used to be always against thumb rules. This effectively counter the statement above and lets things to be taken for granted. But it seems that the mind works in a similar fashion. It creates shortcuts to lessen the amount of data it needs to process. So keeping that in mind I would stick the content to two aspects. It will almost always (not necessarily) state a thumb rule and a following explanation.
+I used to be always against thumb rules. This effectively counters the statement above and lets things to be taken for granted. But it seems that the mind works in a similar fashion. It creates shortcuts to lessen the amount of data it needs to process. So keeping that in mind I would stick the content to two aspects. It will almost always (not necessarily) state a thumb rule and a following explanation.
 
 If in case you need to see something in a different perspective on things that I haven't covered do the two things below:
 
