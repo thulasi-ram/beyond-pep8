@@ -31,5 +31,6 @@ Contents
 - `Notes on Concurrency </concurrency_notes.rst>`_
 
 
+https://www.infoq.com/presentations/Simple-Made-Easy
 
 
