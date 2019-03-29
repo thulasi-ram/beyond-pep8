@@ -2,7 +2,7 @@
 Beyond PEP8
 ===========
 
-Inspired by Raymond Hettingers `talk <https://www.youtube.com/watch?v=wf-BqAjZb8M&t=1s>`_ in PyCon 2015. Although this evolved to be list of curated heuristics from my own experiences, my opinions and my thoughts and not necessarily to limited to python.
+Inspired by Raymond Hettingers `talk <https://www.youtube.com/watch?v=wf-BqAjZb8M&t=1s>`_ in PyCon 2015. Although this evolved to be list of curated heuristics from my own experiences, my opinions and my thoughts not necessarily to limited to python.
 
 Generally in our field people are evaluated for their analytical competencies. The belief is that for such a person learning to write clean code will be easy or he will certainly develop the skill. Although true to a certain extent from my experience this is not the case. This may happen to an experienced developer coming from a different language.
 
